@@ -1,7 +1,12 @@
 /* 
+  Sans-Serif-Family 1.01
   jscriptchamp2005 brings his first CSS library called Sans-Serif-Family!
   Every time I make a webpage, I use the following family. So, I made it into a library! Enjoy it!
 */
 body {
-  font-family: Verdana, Arial, Helvetica, sans-serif
+  font-family: Verdana, Arial, Helvetica, sans-serif,
+}
+
+h1 {
+  text-align: center;
 }
